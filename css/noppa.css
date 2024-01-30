@@ -1,0 +1,15 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    border: solid 2px;
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+
+#dice{
+    text-align: center;
+}
